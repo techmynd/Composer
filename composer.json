@@ -1,0 +1,11 @@
+{
+    "name": "hiroshi/project2",
+    "description": "Test project",
+    "authors": [
+        {
+            "name": "javed khalil",
+            "email": "info@javedkhalil.com"
+        }
+    ],
+    "require": {}
+}
